@@ -1,8 +1,8 @@
 ### Hi, I'm Enzo
 
-I'm a Mechanical & Energy Engineering student at Polytech Marseille, working on building energy audits, decarbonization, and sustainable construction. Outside of school and internships, I like building my own software and 3D-printing tools rather than just using off-the-shelf ones. This repo's README is basically a home page for that side of what I do.
+I'm a Mechanical & Energy Engineering student at Polytech Marseille. Outside of school, I like building my own software and 3D-printing tools rather than just using off-the-shelf ones. This repo's README is basically a home page for that side of what I do.
 
-I'm on LinkedIn at [linkedin.com/in/enzoprt](https://www.linkedin.com/in/enzoprt) and I post my 3D-printed designs on [printables.com/@TFD_5012172](https://www.printables.com/@TFD_5012172).
+I post my 3D-printed designs on [printables.com/@TFD_5012172](https://www.printables.com/@TFD_5012172).
 
 ## What I build
 
