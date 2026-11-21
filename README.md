@@ -8,9 +8,9 @@ I post my 3D-printed designs on [printables.com/@TFD_5012172](https://www.printa
 
 **[gronflad](https://github.com/enzoprt/gronflad)** (from the Danish *grønne flåde*, "green fleet") is an open source voyage energy model for low carbon shipping. It answers one question: how much energy does a ship need on a given route, and how much can wind assistance and alternative fuels save?
 
-- Hull resistance and propulsion with the Holtrop and Mennen method, reproducing the published reference case within 0.1 %
-- Interactive Streamlit app to explore hull, propeller and speed, with warnings outside the method's validity range
-- Next: propeller series, route weather, Flettner rotors, and an ammonia, methanol, LNG and hydrogen fuel comparison
+- Hull resistance (Holtrop and Mennen) and a Wageningen B-series propeller, predicting shaft power from the hull alone within 0.1 % of the published reference case
+- Interactive Streamlit app to explore hull, propeller and speed, including the propeller open water diagram, with warnings outside the method's validity range
+- Next: route weather, Flettner rotors, and an ammonia, methanol, LNG and hydrogen fuel comparison
 
 ## What I build
 
