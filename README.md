@@ -10,7 +10,8 @@ I post my 3D-printed designs on [printables.com/@TFD_5012172](https://www.printa
 
 - Hull resistance (Holtrop and Mennen) and a Wageningen B-series propeller, predicting shaft power from the hull alone within 0.1 % of the published reference case
 - Interactive Streamlit app to explore hull, propeller and speed, including the propeller open water diagram, with warnings outside the method's validity range
-- Next: route weather, Flettner rotors, and an ammonia, methanol, LNG and hydrogen fuel comparison
+- Alternative fuels (ammonia, methanol, LNG, hydrogen, e-fuels) compared on bunker volume, lost container slots, well-to-wake emissions and FuelEU Maritime compliance
+- Next: route weather and Flettner rotors
 
 ## What I build
 
